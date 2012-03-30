@@ -43,7 +43,7 @@
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>0.863 0.862 0.8 1</string>
+		<string>0.850365 0.850365 0.850365 1</string>
 		<key>xcode.syntax.character</key>
 		<string>0.52549 0.839216 0.835294 1</string>
 		<key>xcode.syntax.comment</key>
@@ -81,7 +81,7 @@
 		<key>xcode.syntax.number</key>
 		<string>0.52549 0.839216 0.835294 1</string>
 		<key>xcode.syntax.plain</key>
-		<string>0.863 0.862 0.8 1</string>
+		<string>0.850365 0.850365 0.850365 1</string>
 		<key>xcode.syntax.preprocessor</key>
 		<string>0.841212 0.738025 0.332031 1</string>
 		<key>xcode.syntax.string</key>
